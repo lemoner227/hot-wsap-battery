@@ -1,4 +1,4 @@
-# hot-wsap-battery
+# hot-swap-battery
  Hot Swappable Lithium-ion batteries for E-Rickshaw:
 The E-Rickshaw is definitely one of the most common and popular short distance micro people mover across India, rural and urban. The noiseless and pollution less vehicle offers a great alternative to the existing gasoline and hand pulled rickshaw that have been native to our streets for quite some time. But it is way behind in terms of technology it uses when compared to other futuristic looking electric vehicles hitting the streets. 
 The Idea
