@@ -1,2 +1,10 @@
 # hot-wsap-battery
-This project is based on making the battery for the e rickshaw efficient and most importantly hot swappable
+ Hot Swappable Lithium-ion batteries for E-Rickshaw:
+The E-Rickshaw is definitely one of the most common and popular short distance micro people mover across India, rural and urban. The noiseless and pollution less vehicle offers a great alternative to the existing gasoline and hand pulled rickshaw that have been native to our streets for quite some time. But it is way behind in terms of technology it uses when compared to other futuristic looking electric vehicles hitting the streets. 
+The Idea
+We are trying to upgrade the weakest link to this otherwise perfect people locomotive i.e. the battery. Currently these vehicles use the mode cude source of Direct Current, the lead acid battery which is cheap and easily manufacturable but far from being efficient and environment friendly.
+We propose use of battery cartridges filled with lithium ion batteries that offer better efficiency, fast charging and a way longer range compared to the rudimentary technology that is being offered today. They pack more power not only per ton but also per cubic meters which will enable us to pack ever more juice to an already superior product. 
+Application model
+These cartridges are hot swappable i.e. no more waiting to get the battery to charge up, simply pop out the discharged cartridge, install a new one and you are good to go again in no time, this will significantly increase the running hours. With this we are also proposing a credit based lease system where charging stations will be located in the busy locations where one can go and quickly swap the dead cartridges for the changed ones for free bucks this means no more long charging breaks during busy day time.
+The Tech
+But this is not it, these batteries are also equipped with various sensors and monitors which will provide valuable metrics to the owner and the driver like the range left, nearest charging station, battery usage etc. all this through a smartphone app that connects to the onboard computer via bluetooth.
